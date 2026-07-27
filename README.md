@@ -303,7 +303,7 @@ The Power BI dashboard was designed to provide management with a high-level over
 
 ### Dashboard Preview
 
-![Superstore Dashboard](images/dashboard.png)
+![Superstore Dashboard](Dashboard.png)
 
 ---
 
