@@ -374,7 +374,7 @@ The residual diagnostics indicated no significant autocorrelation and generally 
 
 The model suggests that monthly sales may stabilize in the approximate range of **$72K–$75K** over the forecast horizon.
 
-![Sales Forecast](images/forecast.png)
+![Sales Forecast](sales_forecasting.png)
 
 ---
 
